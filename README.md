@@ -1,3 +1,3 @@
-# ESP32 + MicroPython Samples
+# ESP32 + MicroPython Sample Programs
 
-Source code for a MicroPython program published in Interface magazine.
+MicroPython sample programs published in Interface magazine.
