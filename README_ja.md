@@ -3,7 +3,7 @@
 インターフェース誌に連載している「逆引きMicroPython」プログラム集のソースコードです。
 
 - フォルダ：[NO2_SW_VR](https://github.com/ESPuPy/ESP32-MicroPython-Samples/tree/master/NO2_SW_VR)
- - スイッチやボリューム，ロータリ・エンコーダによる入力検出(Interface 2021年5月号)
+ - スイッチやボリューム，ロータリ・エンコーダによる入力検出([Interface 2021年5月号](https://interface.cqpub.co.jp/magazine/202105/))
 
 |ファイル名|内容|備考|
 |-|-|-|
