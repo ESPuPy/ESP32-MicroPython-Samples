@@ -12,3 +12,5 @@ MicroPython sample programs published in Interface magazine.
 |[list5.py](NO2_SW_VR/list4.py)|rotar encoder sample|required following driver|
 |[encoder.py](NO2_SW_VR/encoder.py)|driver for rotary encoder |implemented by polling|
 
+Japanese README--> [README_ja.md](README_ja.md)
+
