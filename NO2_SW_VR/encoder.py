@@ -6,7 +6,7 @@
 # https://docs.rs-online.com/1497/0900766b80f4c3d5.pdf
 #
 
-class RotaryEncoder():
+class RotaryEncoder:
 
     def __init__(self,sig_A,sig_B):
 
