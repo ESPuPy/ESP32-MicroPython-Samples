@@ -2,6 +2,7 @@
 # list5
 # notice:
 #  to execute this sample, encder.py is required
+#  https://github.com/ESPuPy/ESP32-MicroPython-Samples/blob/master/NO2_SW_VR/encoder.py
 #
 from machine import Pin
 from machine import PWM
